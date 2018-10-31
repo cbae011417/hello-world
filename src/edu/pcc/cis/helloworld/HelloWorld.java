@@ -11,6 +11,9 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
         System.out.println(new Date());
+
+        System.out.println();
+        System.out.println("*Courtney the programmer is waving at you!*");
     }
 
 }
